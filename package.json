@@ -1,0 +1,14 @@
+{
+  "name": "pinpress",
+  "version": "1.0.0",
+  "description": "link objects into a chain",
+  "main": "pinpress.js",
+  "scripts": {
+    "test": "tape test-*.js"
+  },
+  "author": "Aria Stewart <ariastewart@paypal.com>",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
